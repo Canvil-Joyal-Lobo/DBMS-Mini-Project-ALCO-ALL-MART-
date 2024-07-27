@@ -1,4 +1,4 @@
 # DBMS-Mini-Project-ALCO-ALL-MART-
-Report on the ALCO-ALL-MART database.
+Report on the ALCO-ALL-MART database(Mini Project).
 
 
